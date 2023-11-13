@@ -61,3 +61,4 @@ Feel free to [open an issue](https://github.com/iamdhrutipatel/DeepFake-Detectio
 1. [Juhie Motiani](https://github.com/JuhieMotiani)
 2. [Dhruti Patel](https://github.com/iamdhrutipatel)
 3. [Anjali Patel](https://github.com/anjali-patel21)
+4. [Sai Kumar Bhimarasetty](https://github.com/saiwebpro)
